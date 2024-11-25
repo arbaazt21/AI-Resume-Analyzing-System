@@ -54,10 +54,8 @@ GOOGLE_API_KEY=your_google_api_key
 streamlit run app.py
 ```
 
-### 2. Open the app in your browser:
-```
-[ATS System](https://huggingface.co/spaces/arbaazt21/ATS-Application_Tracking_System)
-```
+### 2. Open the app in your browser: [ATS System](https://huggingface.co/spaces/arbaazt21/ATS-Application_Tracking_System)
+
 
 ### 3. How to Use:
 - Upload your resume in **PDF** format.
