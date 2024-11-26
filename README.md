@@ -130,14 +130,7 @@ We welcome contributions from the open-source community! If you would like to im
 ## 📧 **Contact**
 
 For inquiries or support, feel free to reach out via email:
-- Email: [support@example.com](mailto:arbaazt2002@gmail.com)
-
----
-
-## 📄 **License**
-
-This project is licensed under the **MIT License** - see the [](LICENSE) file for details.
-
+- Email: [support@example.com](mailto:arbaazt2002@gmail.com).
 ---
 
 **Optimize your resume with the ATS and take the next step toward your dream job!** 🚀
