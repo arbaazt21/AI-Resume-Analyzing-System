@@ -177,7 +177,7 @@ with col1:
             st.error("Please upload a resume to proceed.")
 
 with col2:
-    if st.button("📈 Match Percentage", key="match", help="Find out how well your resume matches the job description"):
+    if st.button("📈 PERCENTAGE Match", key="match", help="Find out how well your resume matches the job description"):
         if uploaded_file:
             with st.spinner("Calculating match..."):
                 pdf_content = input_pdf_setup(uploaded_file)
