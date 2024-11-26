@@ -2,7 +2,7 @@
 
 **Application Tracking System (ATS)** is an advanced, AI-powered platform developed to optimize resumes for job seekers. By leveraging the capabilities of **Google Gemini AI**, this system evaluates resumes, compares them with job descriptions, and provides actionable insights into the alignment, match percentage, and suggestions for resume improvement. The goal is to enhance the chances of candidates successfully passing through Applicant Tracking Systems (ATS) used by companies in their hiring processes.
 
-### Analyze your RESUME: [HERE](https://huggingface.co/spaces/arbaazt21/ATS-Application_Tracking_System)
+### Analyze your RESUME: [HERE](https://huggingface.co/spaces/arbaazt21/AI-Resume-Analyzing-System)
 
 ---
 
@@ -56,7 +56,7 @@ GOOGLE_API_KEY=your_google_api_key
 streamlit run app.py
 ```
 
-### 2. Open the app in your browser: [AI Resume Analyzing System](https://huggingface.co/spaces/arbaazt21/ATS-Application_Tracking_System)
+### 2. Open the app in your browser: [AI Resume Analyzing System](https://huggingface.co/spaces/arbaazt21/AI-Resume-Analyzing-System)
 
 
 ### 3. How to Use:
