@@ -135,9 +135,9 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Main title
-st.markdown("<h1 class='main-title'>Application Tracking System</h1>", unsafe_allow_html=True)
+st.markdown("<h1 class='main-title'>AI Resume Analyzing System</h1>", unsafe_allow_html=True)
 st.markdown("<div>", unsafe_allow_html=True)
-st.markdown("<p class='sub-title'>Optimize your Resume for top job opportunities with AI insights</p>", unsafe_allow_html=True)
+st.markdown("<p class='sub-title'>Analyze & Optimize your Resume for top job opportunities with AI insights</p>", unsafe_allow_html=True)
 st.markdown("<div>", unsafe_allow_html=True)
 
 # Upload Section
