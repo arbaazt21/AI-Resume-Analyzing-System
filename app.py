@@ -197,6 +197,6 @@ st.markdown("</div>", unsafe_allow_html=True)
 st.markdown("<div class='footer-section'>", unsafe_allow_html=True)
 st.markdown("""
     <p style="text-align: center; color: #95a5a6;">Powered by <b>Streamlit</b> and <b>Gemini AI</b> | Developed by <b>Arbaaz</b></p>
-    <p style="text-align: center; font-size: 0.9rem;">For support, contact <a href="mailto:arbaazt2002@gmail.com" style="color: #3498db;">support@example.com</a></p>
+    <p style="text-align: center; font-size: 0.9rem;">For support, contact <a href="mailto:arbaazt2002@gmail.com" style="color: #3498db;">arbaazt2002@gmail.com</a></p>
 """, unsafe_allow_html=True)
 st.markdown("</div>", unsafe_allow_html=True)
