@@ -4,6 +4,9 @@
 
 ### Analyze your RESUME: [HERE](https://huggingface.co/spaces/arbaazt21/AI-Resume-Analyzing-System)
 
+![ATS img](https://github.com/user-attachments/assets/57d50a7f-429d-4f74-a199-f91aeeaa8914)
+
+
 ---
 
 ## 🚀 **Key Features**
